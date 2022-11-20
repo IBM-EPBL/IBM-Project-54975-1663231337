@@ -1,9 +1,0 @@
-flask
-flask-sqlalchemy
-flask-wtf
-flask-login
-flask-bcrypt
-flask-migrate
-pymysql
-cryptography
-email-validator
